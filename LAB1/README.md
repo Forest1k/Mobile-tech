@@ -7,11 +7,16 @@ e-mail: anton.leevik@gmail.com
 ИНСТРУКЦИЯ ЗАПУСКА:
 
 1.	Клонируете репозиторий:
-git clone https://github.com/Forest1k/Mobile-tech/edit/master/LAB1
+git clone https://github.com/Forest1k
 2.	Переходите в папку: 
-cd LAB1
+cd Mobile-tech/LAB1
 3.	Собираете программу:
 make
 4.	Запускаете программу:
 ./lab1
+
+Примечание:
+для сборки программы вам потребуется g++
+Для Linux его можно установить с помощью команды: sudo apt-get install g++
+Для Windows можно скачать и установить с сайта http://www.mingw.org/
 
