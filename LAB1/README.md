@@ -7,7 +7,7 @@ e-mail: anton.leevik@gmail.com
 ИНСТРУКЦИЯ ЗАПУСКА:
 
 1.	Клонируете репозиторий:
-git clone https://github.com/Forest1k
+git clone https://github.com/Forest1k/Mobile-tech
 2.	Переходите в папку: 
 cd Mobile-tech/LAB1
 3.	Собираете программу:
