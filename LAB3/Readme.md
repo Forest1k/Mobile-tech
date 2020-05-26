@@ -60,4 +60,4 @@ nfdump -r nfcapd.202002251200 -o csv > file.csv
 python3 makedoc.py result.txt
 ```
 
-
+Результат работы программы: файлы otchet.docx и otchet.pdf
