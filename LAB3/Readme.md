@@ -60,17 +60,4 @@ nfdump -r nfcapd.202002251200 -o csv > file.csv
 python3 makedoc.py result.txt
 ```
 
-Примечание:
 
-для сборки программы вам потребуется g++
-
-Для Linux его можно установить с помощью команды: sudo apt-get install g++
-
-Для Windows можно скачать и установить с сайта http://www.mingw.org/
-
-### Результат работы программы:
-
-``` bash
-Total amount of bytes = 5512293 = 5.25693 Mb
-The total cost is equal to 5.25693 RUB
-```
